@@ -5,9 +5,6 @@ package com.example.kyo.demo;
  */
 
 public class A {
-    /*
-我是注解
-    */
     private String title;
     private String name;
 }
